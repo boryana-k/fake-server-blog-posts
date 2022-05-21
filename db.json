@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "title": "Hi",
+      "body": "First post\nTest",
+      "author": "Boryana",
+      "id": 1
+    },
+    {
+      "title": "Test",
+      "body": "Test",
+      "author": "Boryana",
+      "id": 2
+    }
+  ]
+}
